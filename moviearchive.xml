@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<moviearchive>
+    <movies>
+        <movie>
+            <id>2</id>
+            <title>After: Posle sudara</title>
+            <origName>After We Collided</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>romantični</genre>
+            <description>Nastavak velike uspešne serije o ljubavi i strasti dvoje mladih koja ne priznaje granice, snimljenog prema bestseleru  Ane Tod, koji je proglašen novom globalnom senzacijom poput Sumrak sage i erotsko-romantične trilogije Pedest nijansi sive.
+
+Nakon burnog početka veze i šokantnog otkrića, Tesa i Hardin moraju  pronaći način da nastave svoju romansu. No, može li ljubav koja ne  poznaje granice zaista opstati? Tesa polako počinje da uviđa kako bi mogla  da izgubi sve. Hardin shvata da nema šta da izgubi – osim nje. Da li je zaista spreman da se promeni zbog ljubavi? Koliko je ona spremna da oprosti i, još  važnije, da li joj se zaista sviđa slika budućnosti s Hardinom?
+</description>
+            <picturePath>assets\1223807739.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>4</id>
+                    <firstName>Hero</firstName>
+                    <lastName>Fiennes-Tiffin</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>5</id>
+                    <firstName>Josephine</firstName>
+                    <lastName>Langford</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>6</id>
+                    <firstName>Dylan</firstName>
+                    <lastName>Sprouse</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>7</id>
+                    <firstName>Selma</firstName>
+                    <lastName>Blair</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>8</id>
+                    <firstName>Charlie</firstName>
+                    <lastName>Weber</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>2</id>
+                    <firstName>Roger</firstName>
+                    <lastName>Kumble</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>3</id>
+            <title>Antebellum</title>
+            <origName>Antebellum</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>horor</genre>
+            <description>Antebellum je zastrašujući triler producenta uspešnih filmova Get Out i  US, a revolucionarni redatelji Džerard Buš i Kristofer Renc, poznati pod  umetničkim imenom Bush + Renz, donose novi uzbudljivi stil u filmskom  stvaralaštvu.
+
+Radnja ovog misterioznog horor trilera koji okupira pažnju prati uspešnu  autorku Veroniku Henlej (Žanel Mone iz filmova Moonlight i Hidden Figures)  zarobljenu u zastrašujućoj poremećenoj stvarnosti. Veronika mora da razotkrije jezivu misteriju pre nego što bude prekasno…
+</description>
+            <picturePath>assets\1137774322.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>9</id>
+                    <firstName>Janelle</firstName>
+                    <lastName>Monáe</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>10</id>
+                    <firstName>Eric</firstName>
+                    <lastName>Lange</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>11</id>
+                    <firstName>Jena</firstName>
+                    <lastName>Malone</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>3</id>
+                    <firstName>Gerard</firstName>
+                    <lastName>Bush</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+                <diretor>
+                    <id>4</id>
+                    <firstName>Christopher</firstName>
+                    <lastName>Renz</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>4</id>
+            <title>Bez grižnje savjesti</title>
+            <origName>Tom Clancy’s Without Remorse</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, triler</genre>
+            <description>Odlikovani vojni heroj i stručnjak za specijalne snage postaje nepromišljen i nepredvidljiv kad nepoznati neprijatelj ubije njegovu trudnu suprugu i cijeli njegov Seal tim. Poslan je u zatvor s optužbom za ubojstvo jednog od odgovornih ljudi, ali mu se pruža prilika za iskupljenje kada vlada odluči iskoristiti njegovu želju za osvetom i pošalje ga na tajnu misiju kako bi  pronašao ljude koji stvarno stoje iza tog zločina. Naoružan najnovijom tehnologijom i u pratnji visoko obučenog tima, suočit će se s najtežom, i najosobnijom misijom života, u kojoj će pokušati otkriti kome može vjerovati i tko je uistinu odgovoran.
+</description>
+            <picturePath>assets\828901225.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>12</id>
+                    <firstName>Michael B.</firstName>
+                    <lastName>Jordan</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>13</id>
+                    <firstName>Jodie</firstName>
+                    <lastName>Turner-Smith</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>14</id>
+                    <firstName>Jamie</firstName>
+                    <lastName>Bell</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>5</id>
+                    <firstName>Stefano</firstName>
+                    <lastName>Sollima</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>5</id>
+            <title>Bijesan</title>
+            <origName>Unhinged</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>triler</genre>
+            <description>Svakodnevni odlazak na posao za Rachel se pretvorio u noćnu moru kad je u prometnoj gužvi naletjela na stranca s kojim je započela svađu u kojoj mu se odbila ispričati. Jednostavno se našla u krivo vrijeme na krivom mjestu, a on će tada pokušati uništiti sve do čega joj je stalo. Razočaran u život, psihički nestabilan i nasilan, stranac se odlučuje za osvetu, te je počinje pratiti po cijelom gradu u namjeri da ubije nju i njezine najbliže.
+</description>
+            <picturePath>assets\1380436366.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>15</id>
+                    <firstName>Russell</firstName>
+                    <lastName>Crowe</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>16</id>
+                    <firstName>Jimmi</firstName>
+                    <lastName>Simpson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>17</id>
+                    <firstName>Caren</firstName>
+                    <lastName>Pistorius</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>6</id>
+                    <firstName>Derrick</firstName>
+                    <lastName>Borte</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>6</id>
+            <title>Black Widow</title>
+            <origName>Black Widow</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, avantura, SF</genre>
+            <description>Priča je svojevrsni prequel koji nam razotkriva misteriozni lik Natashe Romanoff, kao i njezinu prošlost i obuku u elitnim KGBovom programu. Natasha se kao Black Widow suočava s mračnim dijelovima svoje smrtnosti kada se pojavi opasna zavjera povezana s njezinim prijašnjim životom. Potaknuta silom koja se neće zaustaviti, Black Widow se mora baviti svojom prošlošću i prekinuti odnose koji su postojali prije nego što je postala Osvetnica.
+</description>
+            <picturePath>assets\1341226323.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>18</id>
+                    <firstName>Scarlett</firstName>
+                    <lastName>Johansson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>19</id>
+                    <firstName>Florence</firstName>
+                    <lastName>Pugh</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>20</id>
+                    <firstName>Rachel</firstName>
+                    <lastName>Weisz</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>21</id>
+                    <firstName>David</firstName>
+                    <lastName>Harbour</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>7</id>
+                    <firstName>Cate</firstName>
+                    <lastName>Shortland</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>7</id>
+            <title>Cinkaroš</title>
+            <origName>The Informer</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>krimi, drama</genre>
+            <description>Producenti filmova Grad lopova i Džon Vik donose kriminalističku dramu sa Džoelom Kinemanom, Klajv Ovenom i Rosmundom Pikom u glavnim ulogama.
+
+Bivšem specijalcu Piteru Kolsovu svet se okrene naopačke kada završi u zatvoru  spašavajući svoju ženu. Dobija priliku za prevremno puštanje iz zatvora uz uslov  da postane cinkaroš FBI- a, infiltrirajući se u krugove najmoćnijeg trgovca drogom Njujorka. Nakon što isporuka droge, u kojoj učestvuje, krene po zlu, suočava se s  najtežim zadatkom u svom životu - mora da se infiltrira u najozloglašeniji zatvor. Jedna  prilika i tri sekunde da izvuče živu glavu. Hoće li biti dovoljne?
+</description>
+            <picturePath>assets\1410742637.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>22</id>
+                    <firstName>Joel</firstName>
+                    <lastName>Kinnaman</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>23</id>
+                    <firstName>Rosamund</firstName>
+                    <lastName>Pike</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>24</id>
+                    <firstName>Clive</firstName>
+                    <lastName>Owen</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>8</id>
+                    <firstName>Andrea Di</firstName>
+                    <lastName>Stefano</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>8</id>
+            <title>Come Play</title>
+            <origName>Come Play</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>horor</genre>
+            <description>Come Play je nova vizija horora.
+
+Mladi Azi Robertson je u ulozi Olivera, usamljenog mladića koji se  oseća drugačije od svih ostalih. Na svoem tabletu očajnički traži prijatelja u kom bi našao utehu i utočište. Upravo tamo tajanstveno  stvorenje pokušava ući u njegov svet, a Oliverovi roditelji moraju da se bore kako bi spasili sina od tog jezivog stvorenja.
+</description>
+            <picturePath>assets\1219537508.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>25</id>
+                    <firstName>Azhy</firstName>
+                    <lastName>Robertson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>26</id>
+                    <firstName>Gillian</firstName>
+                    <lastName>Jacobs</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>27</id>
+                    <firstName>John Gallagher</firstName>
+                    <lastName>Jr.</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>9</id>
+                    <firstName>Jacob</firstName>
+                    <lastName>Chase</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>9</id>
+            <title>Crvencipelica i 7 patuljaka - sink</title>
+            <origName>Red Shoes and the Seven Dwarfs</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>animirani</genre>
+            <description>Priča o 7 prinčeva koji su pretvoreni u patuljke. Zadatak im je pronaći crvene cipele kako bi razbili čaroliju te ponovo postali pravi prinčevi. No, ovaj zadatak uopće neće biti lak. 
+</description>
+            <picturePath>assets\278904928.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>28</id>
+                    <firstName>Doris Pinčić</firstName>
+                    <lastName>Rogoznica</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>29</id>
+                    <firstName>Marko</firstName>
+                    <lastName>Makovičić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>30</id>
+                    <firstName>Amar</firstName>
+                    <lastName>Bukvić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>31</id>
+                    <firstName>Mario</firstName>
+                    <lastName>Petreković</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>32</id>
+                    <firstName>Martina</firstName>
+                    <lastName>Tomčić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>33</id>
+                    <firstName>Ivan</firstName>
+                    <lastName>Dečak</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>10</id>
+                    <firstName>Sung Ho</firstName>
+                    <lastName>Hong</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>10</id>
+            <title>Čudesna žena 1984</title>
+            <origName>Wonder Woman 1984</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, avantura, SF</genre>
+            <description>Gel Gado se vratila ulozi hrabre Amazonke u nastavku velikog DC hita iz 2017. godine koji je postao akcioni film s najvećom zaradom u istoriji i koji je režirala žena. I ovaj je nastavak režirala Patty Jenkins.
+Za razliku od prvog filma čija je radnja smeštena u vreme Drugog svetskog rata, nastavak priče o Diani Prince smešten je, kako i naslov kaže, u osamdesete godine prošlog veka . 
+Ovaj film nije napravljen da se čini kao nastavak, zato je ovo i potpuno nova verzija Wonder Woman. 
+</description>
+            <picturePath>assets\233044338.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>34</id>
+                    <firstName>Gal</firstName>
+                    <lastName>Gadot</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>35</id>
+                    <firstName>Pedro</firstName>
+                    <lastName>Pascal</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>36</id>
+                    <firstName>Chris</firstName>
+                    <lastName>Pine</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>37</id>
+                    <firstName>Kristen</firstName>
+                    <lastName>Wiig</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>11</id>
+                    <firstName>Patty</firstName>
+                    <lastName>Jenkins</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>11</id>
+            <title>Čudovišta iz moje porodice 2 - sinh</title>
+            <origName>Happy family 2</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>animirani</genre>
+            <description>Nastavak velikog animiranog hita iz 2017.godine. ČUDOVIŠTA IZ MOJE PORODICE  je adaptacija istoimenog bestselera Emmy-em ovekovečenog autora Davida Saflera (Berlin, Berlin), koji je preveden na 18 jezika i objavljen u preko 40  zemalja.
+
+Kako bi oslobodili Babu Jagu i Renfilda iz kandži lovca na čudovišta, porodica  Višbon se još jednom pretvara u neodoljivog vampira, Frankenštajnovo  čudovište, mumiju i vukodlaka. Naša porodica uz pomoć svoja tri kućna ljubimaca ponovno obilazi svet kako bi spasili prijatelje, stekli nova  monstruozna poznanstva i konačno shvatili da niko nije savršen – i da čak i oni sa manama mogu pronaći sreću.
+</description>
+            <picturePath>assets\2102573688.jpg</picturePath>
+            <actors/>
+            <directors>
+                <diretor>
+                    <id>12</id>
+                    <firstName>Holger</firstName>
+                    <lastName>Tappe</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>12</id>
+            <title>Deep Water</title>
+            <origName>Deep Water</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>triler</genre>
+            <description>Bračni par, koji samo prividno odaje dojam savršenog para, prepun je tajni. U braku u kojem je nestalo ljubavi, počele su otvorene prevare, zavade i podmetanja. Psihološka igra prevara se u rat koji kulminira optužbama za ubojstvo.
+</description>
+            <picturePath>assets\1889967740.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>38</id>
+                    <firstName>Ben</firstName>
+                    <lastName>Affleck</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>39</id>
+                    <firstName>Ana de</firstName>
+                    <lastName>Armas</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>40</id>
+                    <firstName>Kristen</firstName>
+                    <lastName>Connolly</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>13</id>
+                    <firstName>Adrian</firstName>
+                    <lastName>Lyne</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>13</id>
+            <title>Dina</title>
+            <origName>Dune</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>sF, avantura</genre>
+            <description>Priča prati Paula Atreidesa iz kuće Atreides, sjajnog i nadarenog mladića rođenog za velike stvari, koji mora otputovati na najopasniji planet u svemiru kako bi osigurao budućnost svoje obitelj i svog naroda. Nađe se usred sukoba oko ekskluzivne opskrbe najcjenjenijim resursom koji postoji, najvrijednijem elementu galaksije koji se nalazi samo na Arrakisu i koji može otključati najveći potencijal čovječanstva, u kojem će preživjet samo oni koji mogu pobijediti svoj strah.
+</description>
+            <picturePath>assets\447237030.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>41</id>
+                    <firstName>Rebecca</firstName>
+                    <lastName>Ferguson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>42</id>
+                    <firstName>Timothée</firstName>
+                    <lastName>Chalamet</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>43</id>
+                    <firstName>Zendaya</firstName>
+                    <lastName></lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>14</id>
+                    <firstName>Denis</firstName>
+                    <lastName>Villeneuve</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>14</id>
+            <title>Divljaci</title>
+            <origName>Divljaci</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>krimi, drama</genre>
+            <description>Ljeto 2018. godine, Svjetsko nogometno prvenstvo. Ususret finalu u Moskvi, u hrvatskim gradovima vlada opće “ludilo”, a to je ludilo ponijelo i naše glavne junake - hrvatskog ratnog veterana Zolju, bosanskog švercera Jasmina i romskog vozača Malog, koji odluče pljačkom nabaviti novac za put u Rusiju. Zolja, Jasmin i Mali, bježeći od policije prelaze granicu s Bosnom i Hercegovinom. Nađu se u šumi, gdje zalutaju u teroristički kamp radikalnih islamista. Slijedi borba za preživljavanje ispunjena akcijom, humorom i galerijom živopisnih likova; otkrivamo prošlost glavnih anti-junaka i negativaca, njihova prava lica i namjere, kroz putovanje od ratnih balkanskih devedesetih do strahova Europe 21. stoljeća.
+</description>
+            <picturePath>assets\2135419801.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>44</id>
+                    <firstName>Alen</firstName>
+                    <lastName>Liverić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>45</id>
+                    <firstName>Branko</firstName>
+                    <lastName>Janković</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>46</id>
+                    <firstName>Borko</firstName>
+                    <lastName>Perić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>47</id>
+                    <firstName>Dejan</firstName>
+                    <lastName>Aćimović</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>48</id>
+                    <firstName>Slavko</firstName>
+                    <lastName>Sobin</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>49</id>
+                    <firstName>Maja</firstName>
+                    <lastName>Jurić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>50</id>
+                    <firstName>Mijo</firstName>
+                    <lastName>Jurišić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>51</id>
+                    <firstName>Nerman</firstName>
+                    <lastName>Mahmutović</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>15</id>
+                    <firstName>Dario</firstName>
+                    <lastName>Lonjak</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>15</id>
+            <title>Duša</title>
+            <origName>Soul</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>animirani</genre>
+            <description>U središtu priče je Joe, učitelj glazbenog u osnovnoj školi, koji sanja postati jazz glazbenik. Uoči velikog nastupa koji bi mu mogao donijeti željenu karijeru Joe doživi nesreću zbog koje mu se duša odvoji od dijela. Joeova se duša želi i treba vratiti u svoj život, a na tom putu će mu pomoći tajanstveni lik „22”.
+</description>
+            <picturePath>assets\913287105.jpg</picturePath>
+            <actors/>
+            <directors>
+                <diretor>
+                    <id>16</id>
+                    <firstName>Pete</firstName>
+                    <lastName>Docter</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+                <diretor>
+                    <id>17</id>
+                    <firstName>Kemp</firstName>
+                    <lastName>Powers</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>16</id>
+            <title>Fatale</title>
+            <origName>Fatale</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>triler</genre>
+            <description>Napet i provokativan psihološki triler opisuje urušavanje savršenog života sportskog agenta Darrena, nakon što mu zgodna policajka s kojom je proveo burnu noć namjesti ubojstvo.
+</description>
+            <picturePath>assets\1127649224.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>52</id>
+                    <firstName>Hilary</firstName>
+                    <lastName>Swank</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>53</id>
+                    <firstName>Michael</firstName>
+                    <lastName>Ealy</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>54</id>
+                    <firstName>Mike</firstName>
+                    <lastName>Colter</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>18</id>
+                    <firstName>Deon</firstName>
+                    <lastName>Taylor</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>17</id>
+            <title>Fatima</title>
+            <origName>Fatima</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>drama</genre>
+            <description>Fatima je priča o desetogodišnjoj pastirici i njezina dva mlađa rođaka iz Fátime u Portugalu, koji izvještavaju o viđenjima Djevice Marije. Njihova proročanstva nadahnjuju vjernike, ali ljute vladu i Crkvu, koji ih pokušavaju prisiliti da povuku svoju priču. Kako se vijest o njihovom proročanstvu širila, deseci tisuća religioznih hodočasnika došli su na to mjesto u nadi da će svjedočiti čudu. Ono što tamo dožive, zauvijek će im promijeniti živote.
+</description>
+            <picturePath>assets\222525251.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>55</id>
+                    <firstName>Harvey</firstName>
+                    <lastName>Keitel</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>56</id>
+                    <firstName>Goran</firstName>
+                    <lastName>Višnjić</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>57</id>
+                    <firstName>Sônia</firstName>
+                    <lastName>Braga</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>19</id>
+                    <firstName>Marco</firstName>
+                    <lastName>Pontecorvo</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>18</id>
+            <title>Free Guy</title>
+            <origName>Free Guy</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, komedija</genre>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.
+</description>
+            <picturePath>assets\93497802.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>58</id>
+                    <firstName>Ryan</firstName>
+                    <lastName>Reynolds</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>59</id>
+                    <firstName>Jodie</firstName>
+                    <lastName>Comer</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>60</id>
+                    <firstName>Joe</firstName>
+                    <lastName>Keery</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>61</id>
+                    <firstName>Lil Rel</firstName>
+                    <lastName>Howery</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>62</id>
+                    <firstName>Utkarsh</firstName>
+                    <lastName>Ambudkar</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>63</id>
+                    <firstName>Taika</firstName>
+                    <lastName>Waititi</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>20</id>
+                    <firstName>Shawn</firstName>
+                    <lastName>Levy</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>19</id>
+            <title>Guns Akimbo</title>
+            <origName>Guns Akimbo</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcijska komedija</genre>
+            <description>Miles je zaglavio na poslu kojeg ne voli, još uvijek zaljubljen u svoju bivšu djevojku Novu. Ono što Miles ne zna jest da banda imena Skizm organizira smrtonosno natjecanje u njegovom gradu u kojem se potpuni stranci bore do smrti, a sve s ciljem zabavljanja milijunske publike koja natjecanje prati putem Interneta. Miles se ubrzo nađe u igri, prisiljen boriti se kako bi preživio. U početku se Milesovo dugogodišnje iskustvo bježanja od vlastitih problema isplaćuje pa tako uspijeva nadmudriti svog prvog neprijatelja… Ali kada Nova biva oteta, Miles mora konačno prestati s bježanjem, pobijediti vlastite strahove i boriti se za djevojku koju voli. </description>
+            <picturePath>assets\940943615.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>64</id>
+                    <firstName>Daniel</firstName>
+                    <lastName>Radcliffe</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>65</id>
+                    <firstName>Samara</firstName>
+                    <lastName>Weaving</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>66</id>
+                    <firstName>Natasha Liu</firstName>
+                    <lastName>Bordizzo</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>21</id>
+                    <firstName>Jason Lei</firstName>
+                    <lastName>Howden</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>20</id>
+            <title>Još uvek verujem</title>
+            <origName>I Still Believe</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>romantična glazbena drama</genre>
+            <description>Nadahnjujuća priča godine o muzičkoj zvezdi, Jeremyju Campu i njegovom ljubavnom putovanju i gubitku. 
+Jeremy Camp iza sebe ima dvanaestogodišnje muzičko  iskustvo i brojna priznanja i ostvarenja, preko četiri miliona  prodatih albuma, tri nominacije za American Music Awards i nominaciju za Gremi, a nastupao je u više od trideset zemalja sveta. Ovo je priča nastala na osnovi  njegove intimne ispovesti u knjizi „I Still Believe” u kojoj je sa čitaocima podelio neka od životnih iskustava. Njegova supruga umrla je od raka kad je imao dvadeset i jednu godinu. Teški životni trenuci i patnja deo su njegovog života koji ga je na neki način oblikovao. O patnjama ne ćuti, nego pokušava i drugima koji prolaze kroz slične situacije pomoći, ohrabriti ih i poručiti im da je Hrist čovekov sapatnik  i da razume svaku bol koju čovek može doživi.
+</description>
+            <picturePath>assets\564833049.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>67</id>
+                    <firstName>Britt</firstName>
+                    <lastName>Robertson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>68</id>
+                    <firstName>Melissa</firstName>
+                    <lastName>Roxburgh</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>69</id>
+                    <firstName>K.J.</firstName>
+                    <lastName>Apa</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>22</id>
+                    <firstName>Andrew</firstName>
+                    <lastName>Erwin</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+                <diretor>
+                    <id>23</id>
+                    <firstName>Jon</firstName>
+                    <lastName>Erwin</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>21</id>
+            <title>King’s Man: Početak</title>
+            <origName>The King’s Man</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, avantura</genre>
+            <description>Temeljen na stripu „The Secret Service” Marka Millara i Davea Gibbonsa, novi nastavak u franšizi KINGSMAN vodi nas na početak priče, prije radnji koje su se dogodile u nastavcima Kingsman: Tajna služba i Kingsman: Zlatni krug. Glumačka postava ni ovaj put nije razočarala: Ralph Fiennes, Gemma Arterton, Rhys Ifans, Matthew Goode, Tom Hollander, Harris Dickinson, Daniel Brühl, Djimon Hounsou, i Charles Dance, a redateljsku palicu ponovno je preuzeo Matthew Vaughn.
+</description>
+            <picturePath>assets\538401647.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>70</id>
+                    <firstName>Gemma</firstName>
+                    <lastName>Arterton</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>71</id>
+                    <firstName>Matthew</firstName>
+                    <lastName>Goode</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>72</id>
+                    <firstName>Aaron</firstName>
+                    <lastName>Taylor-Johnson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>73</id>
+                    <firstName>Ralph</firstName>
+                    <lastName>Fiennes</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>24</id>
+                    <firstName>Matthew</firstName>
+                    <lastName>Vaughn</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>22</id>
+            <title>Klub srećno razvedenih</title>
+            <origName>Divorce Club</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>komedija</genre>
+            <description>Zabavna komedija o dvojici cimera koji se pokušavaju zabavit nakon razvoda. 
+Ben je devastiran kada njegova supruga zatraži razvod. Dok su svi njihovi prijatelji na strani njegove žene, Ben naiđe na starog prijatelja sa fakulteta koji se isto nedavno razveo. Patrick ga poziva da dođe da živi kod njega. Dvojici cimera se ubrzo pridružuju i drugi razvedeni, razdvojeni i samci koji traže utočište. Zabava za zabavom, njihova vila postaje VIP klub u koji su pozvani svi željni zabave i slobode. Klub ima jedan moto: nemaš pratnju, nemaš problema. Međutim, kada Ben naiđe na Marion, stvari se zakomplikuju…
+</description>
+            <picturePath>assets\674256143.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>74</id>
+                    <firstName>Arnaud</firstName>
+                    <lastName>Ducret</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>75</id>
+                    <firstName>François-Xavier</firstName>
+                    <lastName>Demaison</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>76</id>
+                    <firstName>Caroline</firstName>
+                    <lastName>Anglade</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>25</id>
+                    <firstName>Michaël</firstName>
+                    <lastName>Youn</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>23</id>
+            <title>Mjesto tišine 2</title>
+            <origName>A Quiet Place: Part II</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>horor, triler</genre>
+            <description>Mjesto tišine 2 se nastavlja na kraj prvog dijela. Nakon što im je uništen siguran doma, Evelyn (Emily Blunt) i njezino troje djece kreću dalje u nepoznati svijet, u kojem čak i najmanji zvuk znači smrt. Pokušavaju pronaći druge preživjele i proširiti svoja nova saznanja o tome kako ubiti ta stvorenja.
+</description>
+            <picturePath>assets\1143008611.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>77</id>
+                    <firstName>Cillian</firstName>
+                    <lastName>Murphy</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>78</id>
+                    <firstName>Emily</firstName>
+                    <lastName>Blunt</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>79</id>
+                    <firstName>Noah</firstName>
+                    <lastName>Jupe</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>26</id>
+                    <firstName>John</firstName>
+                    <lastName>Krasinski</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>24</id>
+            <title>Mjesto za nas</title>
+            <origName>Come as you are</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>komedija, drama</genre>
+            <description>Tri muškaraca s invaliditetom bježe od svojim brižnih roditelja u bordel u Montrealu kako bi izgubili nevinost i dokazali da mogu biti samostalni.  U ulozi njegovateljice, koja im je ujedno i vozačica do lokacije je Gabourey Sidibe, a Janeane Garofalo i C.S. Lee su u ulozi zabrinutih roditelja. 
+</description>
+            <picturePath>assets\808611871.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>80</id>
+                    <firstName>Grant</firstName>
+                    <lastName>Rosenmeyer</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>81</id>
+                    <firstName>Hayden</firstName>
+                    <lastName>Szeto</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>82</id>
+                    <firstName>Ravi</firstName>
+                    <lastName>Patel</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>83</id>
+                    <firstName>Gabourey</firstName>
+                    <lastName>Sidibe</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>27</id>
+                    <firstName>Richard</firstName>
+                    <lastName>Wong</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>25</id>
+            <title>Mulan</title>
+            <origName>Mulan</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>avantura</genre>
+            <description>Kada kineski car pošalje dekret u kome piše da svaka porodica mora da pošalje jednog člana koji će se pridružiti Carskoj vojsci u odbrani zemlje od osvajača sa severa, Hua Mulan, najstarija ćerka proslavljenog ratnika, zameniće svog obolelog oca. Prerušena u muškarca, predstavlja se kao Hua Jun i na svakom koraku suočiće se sa izazovom kako bi prigrlila svoju unutrašnju snagu i istinski potencijal. Ovo je epsko putovanje koje će je preobratiti u poštovanog ratnika i na kome će zaslužiti poštovanje i zahvalnost čitave nacije i njenog oca učiniti ponosnim. 
+Neustrašiva mlada žena rizikuje sve što ima, zbog ljubavi prema svojoj porodici i državi i postaje jedan od najvećih ratnika za koje je Kina ikada čula.</description>
+            <picturePath>assets\1790916882.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>84</id>
+                    <firstName>Yifei</firstName>
+                    <lastName>Liu</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>85</id>
+                    <firstName>Donnie</firstName>
+                    <lastName>Yen</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>86</id>
+                    <firstName>Jet</firstName>
+                    <lastName>Li</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>28</id>
+                    <firstName>Niki</firstName>
+                    <lastName>Caro</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>26</id>
+            <title>Nije vreme za umiranje</title>
+            <origName>No Time To Die</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcioni triler</genre>
+            <description>U flmu “NIJE VREME ZA UMIRANJE” Bond je napusto službu i uživa u mirnom životu na Jamajci.
+Njegov mir neće trajat dugo, kada se pojavi njegov stari prijatelj iz CIA, Feliks Lajter, moleći ga za pomoć.
+Misija u kojoj je potrebno da izbave kidnapovanog naučnika ispostaviće se mnogo komplikovanija nego
+što je bilo očekivano i navešće Bonda na trag misterioznom zlikovcu koji je naoružan novom, opasnom
+tehnologijom.</description>
+            <picturePath>assets\1633455826.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>87</id>
+                    <firstName>Daniel</firstName>
+                    <lastName>Craig</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>88</id>
+                    <firstName>Léa</firstName>
+                    <lastName>Seydoux</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>39</id>
+                    <firstName>Ana de</firstName>
+                    <lastName>Armas</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>89</id>
+                    <firstName>Rami</firstName>
+                    <lastName>Malek</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>73</id>
+                    <firstName>Ralph</firstName>
+                    <lastName>Fiennes</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>90</id>
+                    <firstName>Christoph</firstName>
+                    <lastName>Waltz</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>29</id>
+                    <firstName>Cary Joji</firstName>
+                    <lastName>Fukunaga</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>27</id>
+            <title>Novi mutanti</title>
+            <origName>The New Mutants</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, horor, SF</genre>
+            <description>20th Century Studio u saradnji sa Marvel Entertaiment predstavlja film Novi mutanti, originalni horor triler smešten u izolovanu bolnicu, gde je grupa mladih mutanta na psihijatrijskom praćenju. Kada počnu da se događaju čudne stvari, i njihove mutantske sposobnosti i njihovo prijatljestvo će biti na testu dok se budu borili za život.</description>
+            <picturePath>assets\280380807.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>91</id>
+                    <firstName>Anya</firstName>
+                    <lastName>Taylor-Joy</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>92</id>
+                    <firstName>Maisie</firstName>
+                    <lastName>Williams</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>93</id>
+                    <firstName>Antonio</firstName>
+                    <lastName>Banderas</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>30</id>
+                    <firstName>Josh</firstName>
+                    <lastName>Boone</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>28</id>
+            <title>Priča sa zapadne strane</title>
+            <origName>West Side Story</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>drama, mjuzikl</genre>
+            <description>Adaptacija kultnog mjuzikla je zapravo adaptirana moderna Shakespeareova tragedija Romeo i Julija na ulicama New Yorka, a donosi priču o ljubavi i rivalstvu dvije tinejdžerske bande različitog etničkog podrijetla.
+</description>
+            <picturePath>assets\427434716.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>94</id>
+                    <firstName>Ansel</firstName>
+                    <lastName>Elgort</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>95</id>
+                    <firstName>Rachel</firstName>
+                    <lastName>Zegler</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>96</id>
+                    <firstName>Ariana</firstName>
+                    <lastName>DeBose</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>31</id>
+                    <firstName>Steven</firstName>
+                    <lastName>Spielberg</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>29</id>
+            <title>Princ otkriva Ameriku 2</title>
+            <origName>Coming 2 America</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>komedija</genre>
+            <description>Nakon toliko godina, originalni film je i dalje ikona pop kulture. U nastavku se Eddie Murphy vraća kao princ Akeem dok Arsenio Hall također ponavlja ulogu prinčeve desne ruke. Radnja filma se ovog puta vrti oko Akeema koji stiže u Ameriku kako bi pronašao svog davno izgubljenog sina, prestolonasljednika fiktivne države Zamunda. Zvjezdanoj se ekipi ovog puta pridružio i popularni voditelj i komičar Arsenio Hall.
+</description>
+            <picturePath>assets\676754050.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>97</id>
+                    <firstName>Eddie</firstName>
+                    <lastName>Murphy</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>98</id>
+                    <firstName>Arsenio</firstName>
+                    <lastName>Hall</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>99</id>
+                    <firstName>Wesley</firstName>
+                    <lastName>Snipes</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>100</id>
+                    <firstName>Jermaine</firstName>
+                    <lastName>Fowler</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>32</id>
+                    <firstName>Craig</firstName>
+                    <lastName>Brewer</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>30</id>
+            <title>Prizivanja 3: Kriv je Sotona</title>
+            <origName>The Conjuring: The Devil Made Me Do It</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>horor, triler</genre>
+            <description>Prizivanja 3 otkrivaju zastrašujuću priču o teroru, ubojstvu i nepoznatom zlu koje je šokiralo čak i iskusne istražitelje paranormalnog Eda i Lorraine Warren. Jedan od njihovih senzacionalnijih slučajeva započinje borbom za dušu jednog mladića, i odvodi ih daleko od svega što su ikad prije vidjeli, te će se prvi put u povijesti SAD-a optuženi za ubojstvo braniti opsjednutošću demonom. 
+Patrick Wilson i Vera Farmiga se vraćaju kao Ed i Lorraine Warren, ovog puta pod redateljskom palicom Michaela Chavesa.  
+</description>
+            <picturePath>assets\398725245.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>101</id>
+                    <firstName>Patrick</firstName>
+                    <lastName>Wilson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>102</id>
+                    <firstName>Vera</firstName>
+                    <lastName>Farmiga</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>103</id>
+                    <firstName>Ruairi</firstName>
+                    <lastName>O’Connor</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>104</id>
+                    <firstName>Sarah Catherine</firstName>
+                    <lastName>Hook</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>105</id>
+                    <firstName>Julian</firstName>
+                    <lastName>Hilliard</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>33</id>
+                    <firstName>Michael</firstName>
+                    <lastName>Chaves</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>31</id>
+            <title>Radioaktivna</title>
+            <origName>Radioactive</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>biografija, drama</genre>
+            <description>Radioactive donosi istinitu priču o znanstvenici rođenoj 1867. u Varšavi koja je u Francusku došla studirati i ondje upoznala budućeg supruga. Pierre i Marie Curie zajedno su otkrili radij i prodrmali tadašnje znanstvene krugove.
+Njih dvoje 1903. godine osvajaju Nobelovu nagradu za otkrivanje radioaktivnosti, nakon čega Pierre ubrzo umire. Nakon njegove smrti, Marie se počinje još intenzivnije baviti znanošću te osvaja drugu Nobelovu nagradu za svoja otkrića koja su promijenila svijet.
+</description>
+            <picturePath>assets\1226304904.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>23</id>
+                    <firstName>Rosamund</firstName>
+                    <lastName>Pike</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>91</id>
+                    <firstName>Anya</firstName>
+                    <lastName>Taylor-Joy</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>106</id>
+                    <firstName>Sam</firstName>
+                    <lastName>Riley</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>34</id>
+                    <firstName>Marjane</firstName>
+                    <lastName>Satrapi</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>32</id>
+            <title>Skandalozno ponašanje</title>
+            <origName>Misbehaviour</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>drama</genre>
+            <description>Godine 1970. natjecanje Miss svijeta održano je u Londonu, a domaćin ceremonije bio je američki legendarni komičar Bob Hope. U to je vrijeme natjecanje Miss svijeta s preko stotinu milijuna gledatelja bio najgledaniji televizijski program na svijetu. Uz tvrdnju da natjecanja u ljepoti omalovažavaju žene, novi pokret naziva „Pokret za ženska prava“ gotovo je preko noći postigao slavu nakon što su njegovi članovi potpuno nenajavljeno izašli na pozornicu i na taj način prekinuli prijenos natjecanja uživo. I ne samo to: kada je natjecanje nastavljeno, rezultat istoga izazvao je snažne reakcije: pobjednica nije bila favorizirana Šveđanka već miss Grenade – prva crnkinja u povijesti koja je okrunjena kao Miss svijeta. U samo nekoliko sati, globalno gledateljstvo diljem svijeta svjedočilo je nezamislivim posljedicama koje su uslijedile nakon šokantnog obrata… </description>
+            <picturePath>assets\1173092638.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>107</id>
+                    <firstName>Keira</firstName>
+                    <lastName>Knightley</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>108</id>
+                    <firstName>Gugu</firstName>
+                    <lastName></lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>109</id>
+                    <firstName>Jessie</firstName>
+                    <lastName>Buckley</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>110</id>
+                    <firstName>Rhys</firstName>
+                    <lastName>Ifans</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>111</id>
+                    <firstName>Greg</firstName>
+                    <lastName>Kinnear</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>35</id>
+                    <firstName>Philippa</firstName>
+                    <lastName>Lowthorpe</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>33</id>
+            <title>Smrt na Nilu</title>
+            <origName>Death on the Nile</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>misterija, drama</genre>
+            <description>Mlada, bogata i lijepa Linnet Ridgeway ima gotovo sve. Ono što nema, uzme. Na primjer, zaručnika svoje najbolje prijateljice Jackie. Kad se Linnet i njezin novi dragi otpute na medeni mjesec krstareći Nilom, ništa ne može sačuvati Jackie od njezinih demona. I nitko - čak ni čuveni detektiv Hercule Poirot - ne može spriječiti zločin iz strasti.
+</description>
+            <picturePath>assets\948184914.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>112</id>
+                    <firstName>Kenneth</firstName>
+                    <lastName>Branagh</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>34</id>
+                    <firstName>Gal</firstName>
+                    <lastName>Gadot</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>113</id>
+                    <firstName>Armie</firstName>
+                    <lastName>Hammer</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>36</id>
+                    <firstName>Kenneth</firstName>
+                    <lastName>Branagh</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>34</id>
+            <title>Soba želja</title>
+            <origName>The Room</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>drama, misterij, SF</genre>
+            <description>Kate i Matt mladi su njujorški par u svojim tridesetima. On je ilustrator i crtač stripova, a ona je zasićena poslom u velikom odvjetničkom uredu. U potrazi za autentičnijim i zdravijim životom, napuštaju grad i useljavaju se u staru kuću u New Hampshireu. Ubrzo tamo otkrivaju tajnu skrivenu sobu koja ima izvanrednu moć da materijalizira sve što požele. Poput djece u trgovini slatkiša, oni provode dane i noći prepuštajući se svakoj svojoj želji za materijalnim. A onda jednog dana požele dijete ... malenog dječaka. 
+Ispod prividnog stanja blaženstva, sretni par vrebaju mračne sile i neke od tih ostvarenih želja mogu imati strašne posljedice: sve materijalne kreacije prostorije ne mogu napustiti kuću bez da se troše. Soba bi tako mogla pretvoriti njihov san u najgoru noćnu moru ...
+</description>
+            <picturePath>assets\1877943420.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>114</id>
+                    <firstName>Olga</firstName>
+                    <lastName>Kurylenko</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>115</id>
+                    <firstName>Kevin</firstName>
+                    <lastName>Janssens</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>116</id>
+                    <firstName>Joshua</firstName>
+                    <lastName>Wilson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>37</id>
+                    <firstName>Christian</firstName>
+                    <lastName>Volckman</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>35</id>
+            <title>Spužva Bob Skockani: Spužva u bijegu - sink</title>
+            <origName>The SpongeBob Movie: Sponge on the Run</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>animirani</genre>
+            <description>Slavko je kidnapužiran! Spužva Bob i Patrik kreću u zabavnu avanturu punu smijeha kako bi spasili Slavka. 
+Nakon što njegov najbolji prijatelj puž Slavko nestane, Spužva i Patrik napuštaju Bikini dolinu, jedini dom koji poznaju, i kreću u nepoznato kako bi spasili svog prijatelja. Dok se bore sa svim zadovoljstvima i opasnostima ove urnebesne spasilačke misije, Spužva Bob i njegovi prijatelji dokazati će da ne postoji ništa snažnije od sile prijateljstva. U filmu se upoznajemo i sa dirljivom pričom o početcima njihovog prijateljstva i kako je cijela priča o Spužvi Bobu koju danas znamo zapravo nastala. 
+</description>
+            <picturePath>assets\1981326402.jpg</picturePath>
+            <actors/>
+            <directors>
+                <diretor>
+                    <id>38</id>
+                    <firstName>Tim</firstName>
+                    <lastName>Hill</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>36</id>
+            <title>Stepinac: Kardinal i njegova savjest</title>
+            <origName>Stepinac: Kardinal i njegova savjest</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>dokumentarni</genre>
+            <description>Gdje god da dotaknete hrvatsku povijest u posljednjih osamdesetak godina, u njoj ćete negdje, na neki način, naići na - Alojzija Stepinca. Dokumentarni film „Stepinac - Kardinal i njegova savjest“ priča je o životu Alojzija Stepinca, o tome kako se kao čovjek i zagrebački nadbiskup nosio s  najvećim izazovima 20. stoljeća, o globalnom i univerzalnom značaju njegova djela, o korijenu kontroverzi koje ga prate do današnjih dana, o relevantnosti njegova primjera i univerzalnosti njegovih poruka u današnjem vremenu. To je ujedno i priča o hrvatskoj i europskoj povijesti 20. stoljeća, kao neizostavnom kontekstu djelovanja.</description>
+            <picturePath>assets\649456038.jpg</picturePath>
+            <actors/>
+            <directors>
+                <diretor>
+                    <id>39</id>
+                    <firstName>Višnja</firstName>
+                    <lastName>Starešina</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>37</id>
+            <title>Sumrak u bečkom haustoru</title>
+            <origName>Sumrak u bečkom haustoru</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>dokumentarni</genre>
+            <description>Nizom kulturnih manifestacija grad Beč obeležava pedeset godina od dolaska gastarbajtera iz socijalističke Jugoslavije u Austriju. Austriji je bila potrebna radna snaga, pa je ugovorom dogovoren prijem velikog broja radnika iz SFRJ. 
+
+U isto vreme nova vlast, u skladu sa politikom povećanja poreza i smanjenjem socijalnih davanja, uvodi nove poreze taksistima. Nameti su veliki, te je mnogim taksistima budućnost ugrožena. Ovo naručito pogađa ljude sa Balkana, pošto veliki broj njih živi od taksija. 
+
+Sa tim problemom se suočavaju pisac Darko Markov i dvojica taksista Milenko i Goran. Njih trojicu na različite načine povezuje vračara Vladica iz istočne Srbije. Iza raskošnih bečkih fasada krije se svet autsajdera i očajnika o kojima Markov pravi predstavu.
+</description>
+            <picturePath>assets\1975698028.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>117</id>
+                    <firstName>Darko</firstName>
+                    <lastName>Markov</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>118</id>
+                    <firstName>Milenko</firstName>
+                    <lastName></lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>119</id>
+                    <firstName>Vladica</firstName>
+                    <lastName>Milosavljević</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>40</id>
+                    <firstName>Mladen</firstName>
+                    <lastName>Đorđević</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>38</id>
+            <title>Tajni vrt</title>
+            <origName>The Secret Garden</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>avantura, fantazija</genre>
+            <description>Mary Lennox je devetogodišnjakinja kojoj u epidemiji kolere u Indiji umiru oba roditelja, a ona ostaje sama i zaboravljena u njihovoj kolonijalnoj vili. Kad je naposljetku pronađu britanski susjedi i vojnici, ispostavi se da se za suhonjavu, razmaženu i mrzovoljnu Mary nitko ne želi brinuti, pa je ubrzo otpreme na brod za Englesku, gdje bi je trebao udomiti najbliži rođak kojega Mary nikada nije upoznala - gospodin Craven (Colin Firth). Budući da ga u Engleskoj sve podsjeća na smrt voljene žene, gospodin Craven najčešće nije u zemlji već putuje svijetom pa Mary tako ostaje posve sama na njegovu zabačenome i tjeskobnom imanju na sjevernu Engleske. No jednoga dana Mary u vrtnom zidu otkriva zaključana vrata obrasla bršljanom. Događaji koji su potom uslijedili potpuno su promijenili njezin život. 
+</description>
+            <picturePath>assets\1552837654.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>120</id>
+                    <firstName>Dixie</firstName>
+                    <lastName>Egerickx</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>121</id>
+                    <firstName>Colin</firstName>
+                    <lastName>Firth</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>122</id>
+                    <firstName>Julie</firstName>
+                    <lastName>Walters</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>41</id>
+                    <firstName>Marc</firstName>
+                    <lastName>Munden</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>39</id>
+            <title>Tenet</title>
+            <origName>Tenet</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, triler</genre>
+            <description>John David Washington glavni je protagonist novog Sci-Fi akcijskog spektakla Christophera Nolana, kratkog ali znakovitog naziva “Tenet.” Naoružan samo jednom riječju - Tenet - i boreći se za opstanak cijelog svijeta, glavni junak priče kreće kroz polumračni svijet međunarodne špijunaže na misiji koja će se odvijati u nečemu izvan stvarnog vremena. Inverzija. Nije putovanje kroz vrijeme.
+</description>
+            <picturePath>assets\1934989802.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>123</id>
+                    <firstName>John David</firstName>
+                    <lastName>Washington</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>124</id>
+                    <firstName>Robert</firstName>
+                    <lastName>Pattinson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>125</id>
+                    <firstName>Elizabeth</firstName>
+                    <lastName>Debicki</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>42</id>
+                    <firstName>Christopher</firstName>
+                    <lastName>Nolan</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>40</id>
+            <title>Tesla</title>
+            <origName>Tesla</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>biografski, drama</genre>
+            <description>Za Oskara® višestruko nominovani Itan Houk u prvom  pravom biografskom filmu o Nikoli Tesli, geniju i najvećem naučniku sa ovih prostora.
+
+Životna priča čoveka koji je, kako kažu “izmislio 20. vek“ ,  hronološki će pratiti Tesline američke godine, nizanje njegovih  ključnih otkrića i sukob s Tomasom Alvom Edisonom. 
+</description>
+            <picturePath>assets\1547420066.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>126</id>
+                    <firstName>Ethan</firstName>
+                    <lastName>Hawke</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>127</id>
+                    <firstName>Eve</firstName>
+                    <lastName>Hewson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>128</id>
+                    <firstName>Hannah</firstName>
+                    <lastName>Gross</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>43</id>
+                    <firstName>Michael</firstName>
+                    <lastName>Almereyda</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>41</id>
+            <title>The French Dispatch</title>
+            <origName>The French Dispatch</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>komedija, drama</genre>
+            <description>Priča počinje smrću glavnog urednika, kada se redakcija okuplja kako bi odabrala tri priče koje će objaviti u komemorativnom izdanju časopisa. A one pripovijedaju o umjetniku osuđenom na doživotnu kaznu zatvora zbog dvostrukog ubojstva, o studentskim neredima i o otmici koju je razriješio šef kuhinje.
+</description>
+            <picturePath>assets\1741621281.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>129</id>
+                    <firstName>Bill</firstName>
+                    <lastName>Murray</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>130</id>
+                    <firstName>Timothee</firstName>
+                    <lastName>Chalamet</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>131</id>
+                    <firstName>Frances</firstName>
+                    <lastName>McDormand</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>132</id>
+                    <firstName>Elisabeth</firstName>
+                    <lastName>Moss</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>133</id>
+                    <firstName>Jeff</firstName>
+                    <lastName>Goldblum</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>134</id>
+                    <firstName>Tilda</firstName>
+                    <lastName>Swinton</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>44</id>
+                    <firstName>Wes</firstName>
+                    <lastName>Anderson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>42</id>
+            <title>The King`s Man: Početak</title>
+            <origName>The Kings Man</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, avantura, komedija</genre>
+            <description>Grupa najvećih kriminalaca i tirana okuplja se kako bi isplanirala rat u cilju uništenja miliona ljudi. Jedan čovek mora će da se utrkuje s vremenom kako bi ih zaustavio.</description>
+            <picturePath>assets\1743537169.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>70</id>
+                    <firstName>Gemma</firstName>
+                    <lastName>Arterton</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>71</id>
+                    <firstName>Matthew</firstName>
+                    <lastName>Goode</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>72</id>
+                    <firstName>Aaron</firstName>
+                    <lastName>Taylor-Johnson</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>73</id>
+                    <firstName>Ralph</firstName>
+                    <lastName>Fiennes</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>24</id>
+                    <firstName>Matthew</firstName>
+                    <lastName>Vaughn</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>43</id>
+            <title>Top Gan: Maverik</title>
+            <origName>Top Gun: Maverick</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>akcija, avantura</genre>
+            <description>Nakon više of 30 godina služenja u mornarici, kao jedan od najboljih pilota, Pit “Maverik” Mičel je tamo gde i treba da bude. Ne preza da probije barijere kao hrabar test pilot i izbegava da prihvat unapređenje koje bi ga zauvek spustlo na zemlju. Kada je počeo da podučava vod mladih pilota koji su na obuci za specijalne misije, kakve nijedan živi pilot nikada još nije video, Maverik sreće poručnika Bredlija Bredšoa čiji je nadimak “Ruster”, sina Maverikovog pokojnog prijatelja i ofcira za presretanje radara, poručnika Nika Bredšoa, zvanog “Gus”.</description>
+            <picturePath>assets\1995762137.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>135</id>
+                    <firstName>Tom</firstName>
+                    <lastName>Cruise</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>136</id>
+                    <firstName>Val</firstName>
+                    <lastName>Kilmer</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>137</id>
+                    <firstName>Jennifer</firstName>
+                    <lastName>Connelly</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>45</id>
+                    <firstName>Joseph</firstName>
+                    <lastName>Kosinski</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>44</id>
+            <title>Ubojice s razglednice</title>
+            <origName>The Postcard Killings</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>kriminalistički, drama, misterij</genre>
+            <description>Njujorški detektiv istražuje smrt svoje kćeri koja je brutalno ubijena dok je bila na medenom mjesecu u Londonu te zatraži pomoć skandinavske novinarke kada slične sudbine zadese i druge parove širom Europe. Jedini trag ubojstvu su razglednice s fotografijama koje naizgled slučajni novinari šalju od narcističkog ubojice, najavljujući sljedeći grozan zločin. 
+</description>
+            <picturePath>assets\1907059059.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>138</id>
+                    <firstName>Jeffrey Dean</firstName>
+                    <lastName>Morgan</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>139</id>
+                    <firstName>Famke</firstName>
+                    <lastName>Janssen</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>140</id>
+                    <firstName>Naomi</firstName>
+                    <lastName>Battrick</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>46</id>
+                    <firstName>Danis</firstName>
+                    <lastName>Tanović</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>45</id>
+            <title>Veliki crveni pas Clifford - sink</title>
+            <origName>Clifford The Big Red Dog</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>animirani</genre>
+            <description>Kad srednjoškolka Emily Elizabeth poželi da njeno sićušno, crveno štene poraste veliko i snažno, ne očekuje da će se u svom malom stanu u New Yorku probuditi pored najvećeg psa na svijetu! U nastojanju da zadrži svog voljenog kućnog ljubimca, Emily namjerava pronaći stručnjaka za životinje za kojeg se nada da će uspjeti vratiti Clifforda u normalnu veličinu. Dok u toj potrazi pretražuje grad zajedno sa svojim neodgovornim ujakom Caseyjem, školskim kolegom Owenom i Cliffordom, glas o Cliffordovoj veličini privlači pažnju zlog znanstvenika koji ga pokušava prisvojiti.
+</description>
+            <picturePath>assets\1502891986.jpg</picturePath>
+            <actors/>
+            <directors>
+                <diretor>
+                    <id>47</id>
+                    <firstName>Walt</firstName>
+                    <lastName>Becker</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>46</id>
+            <title>Voyagers</title>
+            <origName>Voyagers</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>sF</genre>
+            <description>Distopijski	triler	kog  nazivaju Gospodarom muva za nove  generacije!
+
+U skorijoj budućnosti u kojoj je ljudska rasa u opasnosti, grupaod  tridesetak mladića i žena poslata je na ekspediciju u svemir kako bi kolonizovali novootkrivenu planetu. Grupa je prethodno trenirana upravo za tu svrhu, za suzbijanje emocionalnih impulsa i pojačanu inteligenciju. 
+Međutim, kad posada otkrije uznemirujuće tajne o misiji,  kreću da prkose toj obuci i počinju da istražuju svoje najprimitivnije  prirodne nagone i impulse. Dok se život na brodu pretvara u haos,  prožima ih strah, požuda i glad za moći.
+</description>
+            <picturePath>assets\789216841.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>141</id>
+                    <firstName>Colin</firstName>
+                    <lastName>Farrell</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>142</id>
+                    <firstName>Tye</firstName>
+                    <lastName>Sheridan</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>143</id>
+                    <firstName>Lily-Rose</firstName>
+                    <lastName>Depp</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>48</id>
+                    <firstName>Neil</firstName>
+                    <lastName>Burger</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+        <movie>
+            <id>47</id>
+            <title>Zaboravljeni princ</title>
+            <origName>Le prince oublie</origName>
+            <publishedDate>2020-06-18T12:34:39</publishedDate>
+            <genre>avantura</genre>
+            <description>Svako veče pre odlaska u krevet razvedeni Džibi priča price svojoj sestričini I tako zajedno putuju u daleke svetove. Sve dok jednom daleki svet ne dođe kod njih.
+</description>
+            <picturePath>assets\587735198.jpg</picturePath>
+            <actors>
+                <actor>
+                    <id>144</id>
+                    <firstName>Omar</firstName>
+                    <lastName>Sy</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>145</id>
+                    <firstName>Bérénice</firstName>
+                    <lastName>Bejo</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+                <actor>
+                    <id>146</id>
+                    <firstName>François</firstName>
+                    <lastName>Damiens</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </actor>
+            </actors>
+            <directors>
+                <diretor>
+                    <id>49</id>
+                    <firstName>Michel</firstName>
+                    <lastName>Hazanavicius</lastName>
+                    <picturePath>assets/graphics/defaultImg.jpg</picturePath>
+                </diretor>
+            </directors>
+        </movie>
+    </movies>
+</moviearchive>
